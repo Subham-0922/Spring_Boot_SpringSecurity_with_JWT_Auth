@@ -45,7 +45,7 @@ Setup & Installation
 1. Install the Spring Tool Suite (STS) from https://spring.io/tools
 2. Clone the Repository using the following command:
    ```
-   git clone https://github.com/sahu-neha/Backend-Authentication-SpringBoot.git
+   git clone https://https://github.com/Subham-0922/Spring_Boot_SpringSecurity_with_JWT_Auth.git
    ```
 3. Run Locally:
    - Open the "Backend_for_login_signup" folder with STS.
